@@ -1,4 +1,5 @@
-= Quick start
+Quick start
+===========
 
     mvn pre-site jetty:run
 
