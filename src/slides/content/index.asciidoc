@@ -1,0 +1,26 @@
+:deckjs_theme: web-2.0
+:deckjs_transition: horizontal-slide
+:navigation:
+:status:
+
+= Main Title
+
+== Slide #1
+
+[source,java,numbered]
+-------------------
+public class Hello {
+    public String world() {
+        return "Welcome";
+    }
+}
+-------------------
+
+== Slide #2
+
+[options="step"]
+That's all.
+
+[options="step"]
+My Folks
+
