@@ -45,7 +45,7 @@
           <templateEngine />
 
           <attributes>
-            <imagesdir>/img</imagesdir>
+            <imagesdir>img</imagesdir>
 
             <description>Description</description>
             <keywords>asciidoctor, slides</keywords>
