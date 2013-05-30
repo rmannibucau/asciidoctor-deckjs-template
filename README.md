@@ -1,7 +1,12 @@
 Quick start
 ===========
 
-    mvn pre-site jetty:run
+    mvn asciidoctor:http
 
-Then go on http://localhost:8080
+Then go on http://localhost:200
+
+You can get a zip of the site with
+
+    mvn asciidoctor:zip
+
 
