@@ -2,6 +2,8 @@
 :deckjs_transition: horizontal-slide
 :navigation:
 :status:
+:data-uri:
+:linkcss!:
 
 = Main Title
 
